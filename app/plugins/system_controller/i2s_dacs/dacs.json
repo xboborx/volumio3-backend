@@ -113,5 +113,8 @@
     {"id":"rpi-dac","name":"R-PI DAC","overlay":"rpi-dac","alsanum":"0","mixer":"Digital","modules":"","script":"","needsreboot":"yes"},
     {"id":"wisdPi Hifi DAC","name":"wisdPi Hifi DAC","overlay":"hifiberry-dacplus","alsanum":"0","mixer":"Digital","modules":"","script":"","needsreboot":"yes"},
     {"id":"52Pi NVDAC","name":"52Pi NVDAC","overlay":"hifiberry-dacplus","alsanum":"0","mixer":"Digital","modules":"","script":"","needsreboot":"yes"} 
+  ]},
+  {"name":"Resolut","data":[
+    {"id":"sound-i2s","name":"Resolut-i2s","overlay":"","alsanum":"2","mixer":"Master","modules":"","script":""}
   ]}
 ]}
