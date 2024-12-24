@@ -9,6 +9,7 @@
 	{"name": "HDMI Out", "dsp_options":["hdmi audio format Function"]},
 	{"name": "TauDAC - DM101", "dsp_options":["Anti-Clipping Mode","Dither","Filter"]},
 	{"name": "Volumio ESS 9028QM", "dsp_options":["FIR Filter Type","IIR Filter Select"]},
-	{"name": "Analog RCA Output", "dsp_options":["FIR Filter Type","IIR Filter Select"]}
+	{"name": "Analog RCA Output", "dsp_options":["FIR Filter Type","IIR Filter Select"]},
+	{"name": "Resolut-i2s", "dsp_options":["DSP Program","Deemphasis","DoP"]}
   ]
 }
